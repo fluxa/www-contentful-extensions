@@ -1,0 +1,6 @@
+{
+  "id": "colorpicker",
+  "name": "Color picker",
+  "srcdoc": "index.html",
+  "fieldTypes": ["Symbol", "Text"]
+}
