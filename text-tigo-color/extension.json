@@ -1,0 +1,8 @@
+{
+  "id": "text-tigo-color",
+  "name": "text-tigo-color",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
